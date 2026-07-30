@@ -10,10 +10,10 @@ An **Embedded C++ Power Quality Monitoring & Smart Energy Meter System** simulat
 
 ## 📊 Demo & Circuit Simulation
 
-![Simulation Demo](docs/simulation_demo.png)
+![Simulation Demo](https://github.com/sidharth478/ESP32-Smart-Energy-Meter-Power-Quality-Monitor/blob/main/SMPM_simulation_demo2026-07-30%20200253.png)
 
 > 🔗 **Live Interactive Wokwi Simulation:**  
-> *(Paste your shared Wokwi project link here so visitors can run it live in their browser!)*
+> (https://wokwi.com/projects/470980459237821441))*
 
 ---
 
